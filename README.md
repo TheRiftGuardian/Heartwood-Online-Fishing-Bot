@@ -1,6 +1,6 @@
 # A Heartwood Online fishing bot written in Python using pyautogui.
 
-![](https://github.com/TheRiftGuardian/heartwood_cotton_farm_bot/blob/main/fishing_bot_demo.gif)
+![](https://github.com/TheRiftGuardian/Heartwood-Online-Fishing-Bot/blob/main/fishing_bot_demo.gif)
 
 ## Disclaimer: 
 This bot was created for educational purposes. I am not responsible for any bans that result from using this program.
