@@ -18,4 +18,4 @@ Res = 1920x1080 <br>
 Target FPS = 30
 
 ## Future Plans
-I do not plan to update this program beyond an .exe file for those who do not have a Python IDE available. Feel free to edit/improve the code yourselves 😄
+I do not plan to update this program. Feel free to edit/improve the code yourselves 😄
